@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+moviepy
+textblob
+nltk
+ffmpeg-python
+openai-whisper
